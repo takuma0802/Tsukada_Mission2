@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2247a322-3d19-4da4-882b-586f68f62e87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Tsukada_Mission2/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Tsukada_Mission2/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Tsukada_Mission2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Tsukada_Mission2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Main.unity" afterPath="$PROJECT_DIR$/Assets/Main.unity" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,34 +15,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SimpleActivatorMenu.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs">
+      <file leaf-file-name="CameraController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
-                <marker date="1511143799662" expanded="false" signature="6:32" ph="..." />
-                <marker date="1511143799662" expanded="true" signature="71:1025" ph="{...}" />
-                <marker date="1511143799662" expanded="true" signature="126:1023" ph="{...}" />
-                <marker date="1511143799662" expanded="true" signature="141:237" ph="/* An incredibly simple menu which, when given references ... */" />
-                <marker date="1511143799662" expanded="true" signature="393:580" ph="{...}" />
-                <marker date="1511143799662" expanded="true" signature="615:1017" ph="{...}" />
-                <marker date="1511143799662" expanded="true" signature="791:880" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForcedReset.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/ForcedReset.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <marker date="1507619004000" expanded="false" signature="6:113" ph="..." />
-                <marker date="1507619004000" expanded="true" signature="195:470" ph="{...}" />
-                <marker date="1507619004000" expanded="true" signature="223:468" ph="{...}" />
-                <marker date="1507619004000" expanded="true" signature="338:462" ph="{...}" />
+                <marker date="1511167190548" expanded="true" signature="6:132" ph="..." />
+                <marker date="1511167190548" expanded="true" signature="180:878" ph="{...}" />
+                <marker date="1511167190548" expanded="true" signature="325:591" ph="{...}" />
+                <marker date="1511167190548" expanded="true" signature="613:876" ph="{...}" />
+                <marker date="1511167190548" expanded="true" signature="751:873" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,6 +38,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/ForcedReset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -60,6 +46,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/UnityChan/Scripts/IdleChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
       </list>
     </option>
   </component>
@@ -69,7 +56,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="757" />
     <option name="y" value="22" />
     <option name="width" value="679" />
@@ -135,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511143346259</updated>
-      <workItem from="1511143351336" duration="714000" />
+      <workItem from="1511143351336" duration="5270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="714000" />
+    <option name="totallyTimeSpent" value="5270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,7 +139,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="757" y="22" width="679" height="878" extended-state="0" />
+    <frame x="757" y="22" width="679" height="878" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -212,31 +199,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <marker date="1511143799662" expanded="false" signature="6:32" ph="..." />
-            <marker date="1511143799662" expanded="true" signature="71:1025" ph="{...}" />
-            <marker date="1511143799662" expanded="true" signature="126:1023" ph="{...}" />
-            <marker date="1511143799662" expanded="true" signature="141:237" ph="/* An incredibly simple menu which, when given references ... */" />
-            <marker date="1511143799662" expanded="true" signature="393:580" ph="{...}" />
-            <marker date="1511143799662" expanded="true" signature="615:1017" ph="{...}" />
-            <marker date="1511143799662" expanded="true" signature="791:880" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/ForcedReset.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <marker date="1507619004000" expanded="false" signature="6:113" ph="..." />
-            <marker date="1507619004000" expanded="true" signature="195:470" ph="{...}" />
-            <marker date="1507619004000" expanded="true" signature="223:468" ph="{...}" />
-            <marker date="1507619004000" expanded="true" signature="338:462" ph="{...}" />
+            <marker date="1511146373113" expanded="false" signature="6:113" ph="..." />
+            <marker date="1511146373113" expanded="true" signature="195:470" ph="{...}" />
+            <marker date="1511146373113" expanded="true" signature="223:468" ph="{...}" />
+            <marker date="1511146373113" expanded="true" signature="338:462" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1511146373122" expanded="false" signature="6:32" ph="..." />
+            <marker date="1511146373122" expanded="true" signature="71:1025" ph="{...}" />
+            <marker date="1511146373122" expanded="true" signature="126:1023" ph="{...}" />
+            <marker date="1511146373122" expanded="true" signature="141:237" ph="/* An incredibly simple menu which, when given references ... */" />
+            <marker date="1511146373122" expanded="true" signature="393:580" ph="{...}" />
+            <marker date="1511146373122" expanded="true" signature="615:1017" ph="{...}" />
+            <marker date="1511146373122" expanded="true" signature="791:880" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1511167190548" expanded="true" signature="6:132" ph="..." />
+            <marker date="1511167190548" expanded="true" signature="180:878" ph="{...}" />
+            <marker date="1511167190548" expanded="true" signature="325:591" ph="{...}" />
+            <marker date="1511167190548" expanded="true" signature="613:876" ph="{...}" />
+            <marker date="1511167190548" expanded="true" signature="751:873" ph="{...}" />
           </folding>
         </state>
       </provider>
