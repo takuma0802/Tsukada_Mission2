@@ -306,7 +306,11 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Camera1.cs" t="Include" />
+          <e p="Camera2.cs" t="Include" />
+          <e p="Camera3.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
+          <e p="CameraInterface.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="Cameras" t="Include">
